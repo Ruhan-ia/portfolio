@@ -1,4 +1,3 @@
-import React from "react";
 import bgPro from "../assets/images/bg-pro.jpg";
 import profile from "../assets/images/istiak-removebg.png";
 
